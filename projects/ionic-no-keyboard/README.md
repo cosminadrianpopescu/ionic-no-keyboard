@@ -22,4 +22,3 @@ export class MyModule { }
 ```
 
 This input, when focused, will display no native keyboard.
-

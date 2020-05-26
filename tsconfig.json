@@ -14,7 +14,13 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "ionic-no-keyboard": [
+        "dist/ionic-no-keyboard/ionic-no-keyboard",
+        "dist/ionic-no-keyboard"
+      ]
+    }
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,
